@@ -30,3 +30,4 @@ EXPOSE 80
 
 # Start Nginx in the foreground
 CMD ["nginx", "-g", "daemon off;"]
+#s3 bucket deployment
